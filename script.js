@@ -1,6 +1,3 @@
-// ============================================================
-//  script.js — Semua tampilan & logika dibuat via JavaScript
-// ============================================================
 
 // ---------- 1. INJECT GOOGLE FONTS & CSS ----------
 const style = document.createElement("style");
